@@ -1,0 +1,12 @@
+.example {
+  background-color: pink;
+  padding: 20px;
+}
+
+.example span {
+  display: inline-block;
+  margin: 20px;
+  border: 1px solid black;
+  padding: 20px;
+  background-color: lightgreen;
+}
